@@ -409,7 +409,7 @@ blockquote p {
 	top: 0;
 	right: 0;
 	font-size: 18px;
-	color: #fff;
+	color: #2a2a2e;
 	width: 80px;
 	text-align: center;
 	z-index: 52;
@@ -767,7 +767,7 @@ nav.nav-inner {
 	right: 0;
 	width: 40px;
 	height: 90px;
-	color: #fff;
+	color: #292929;
 	overflow: hidden;
 	font-size: 24px;
 	border: 1px solid rgba(255, 255, 255, 0.08);
@@ -1074,11 +1074,11 @@ p.interact,
 	float: left;
 }
 .color-btn {
-	color: #fff;
+	color: #2d2d32;
 	border-color: transparent
 }
 .btn.color-btn:before {
-	background: #fff;
+	background: #2d2d32;
 }
 .btn:before {
 	content: '';
@@ -1387,12 +1387,12 @@ p.interact,
 .hero-decor-let {
 	position: absolute;
 	color: #fff;
-	font-size: 10px;
+	font-size: 25px;
 	right: 53px;
 	letter-spacing:10px;
 	top: 43%;
 	z-index: 20;
-	font-weight: 500;
+	font-weight: 700;
 	text-transform:uppercase;
 	-webkit-transform: rotate(90deg);
 	transform: rotate(90deg);
@@ -5187,7 +5187,7 @@ section.parallax-section .section-title:before {
 	width: 80px;
 	height: 80px;
 	z-index: 100;
-	color: #fff;
+	color: #2a2a2e;
 	font-size: 22px;
 	line-height: 80px;
 	background: #3C3C3C;
@@ -5230,6 +5230,7 @@ section.parallax-section .section-title:before {
 	margin-top: 0;
 	opacity: 1;
 	visibility: visible;
+	color: rgb(255, 255, 255);
 }
 .share-wrapper {
 	position: fixed;
@@ -6188,12 +6189,13 @@ section.parallax-section .section-title:before {
 	height: 50px;
 	line-height: 50px;
 	z-index: 2;
-	color: #fff;
+	color: #292929;
 	border: none;
 	cursor: pointer;
 }
 .error-wrap form .search-submit:hover {
 	background: #292929;
+	color: rgb(250, 201, 33);
 }
 .error-wrap a.btn {
 	display: inline-table;
