@@ -521,7 +521,7 @@ blockquote p {
 	height: 50px;
 	line-height: 50px;
 	font-weight: 600;
-	color: #fff;
+	color: #2d2d32;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	z-index: 100;
@@ -1397,6 +1397,7 @@ p.interact,
 	-webkit-transform: rotate(90deg);
 	transform: rotate(90deg);
 	white-space:nowrap;
+	
 }
 .hero-decor-let div{
 	position:absolute;
@@ -6628,7 +6629,6 @@ section.parallax-section .section-title:before {
 		line-height: 40px;
 	}
 	.half-hero-wrap h4,
-	.hero-decor-let,
 	.hero-decor-numb,
 	.show-info,
 	.album-list-title,
